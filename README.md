@@ -64,3 +64,10 @@ Supply-Chain-Performance-Dashboard-PowerBI/
 
 ## Portfolio Note
 The dataset is a realistic sample dataset created for portfolio and learning purposes. No confidential employer data is used.
+
+
+<img width="871" height="567" alt="image" src="https://github.com/user-attachments/assets/bd0c03f1-63d7-4d0a-ad9f-f9900900265a" />
+
+<img width="798" height="442" alt="image" src="https://github.com/user-attachments/assets/f47e32c3-cf3b-430c-8c3b-3c12d5645838" />
+
+
